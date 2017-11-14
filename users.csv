@@ -1,0 +1,100 @@
+UserID,WindowID,Split,City,State,Country,DegreeType,Major,Skills
+72,1,Train,La Mesa,CA,US,Master's,Anthropology,"anthropology, competition, debating"
+80,1,Train,Williamstown,NJ,US,High School,Not Applicable,competition
+98,1,Train,Astoria,NY,US,Master's,Journalism,"journalism, debating, public-speaking, theatre, Event Planning, leadership
+"
+123,1,Train,Baton Rouge,LA,US,Bachelor's,Agricultural Business,"agriculture, competition, plants"
+131,1,Train,Houston,TX,US,Bachelor's,Finance,"finance, negotiation, accounting, auditing, budgeting, calculations"
+162,1,Train,Long Beach,CA,US,Master's,I/O Psychology,"psychology, management, communication, decision making"
+178,1,Train,Greenville,SC,US,High School,Not Applicable,competition
+203,1,Train,Colchester,VT,US,Master's,Burlington,competition
+344,1,Train,Newport News,VA,US,High School,Not Applicable,competition
+395,1,Train,Wildwood,MO,US,Bachelor's,Marketing,"marketing, market analysis, finance, management, communication, analytical, decision making, cost reduction, data analysis"
+415,1,Train,Leland,NC,US,Associate's,Office Systems Technology,"office systems, management, communication, decision making"
+437,1,Train,Brookville,OH,US,Associate's,Nursing,"nursing, interpersonal, communication, dexterity, nurturing"
+483,1,Train,York,PA,US,Bachelor's,Accounting,"finance, management, auditing, accounting, cost reduction, data analysis"
+496,1,Train,Easley,SC,US,High School,Not Applicable,competition
+524,1,Train,Florence,SC,US,Bachelor's,Restaurant and Tourism Management,"restaurant management, tourism, management, communication, decision making, hospitality, leadership"
+534,1,Train,Nashville,TN,US,High School,Not Applicable,competition
+547,1,Train,Milford,CT,US,High School,Not Applicable,competition
+554,1,Train,Altamonte Springs,FL,US,Bachelor's,Legal Studies,"legal studies, law, problem solving, decision making, debating"
+555,1,Train,Saint Petersburg,FL,US,High School,Physical education,"physical education, athletics, sports, interpersonal, basketball, football"
+655,1,Train,Glendale,AZ,US,Bachelor's,Criminal Justice,"crime, criminal studies, decision making, law, problem solving, communication"
+682,1,Train,Mount Kisco,NY,US,High School,Not Applicable,competition
+744,1,Train,Elkton,MD,US,High School,Not Applicable,competition
+755,1,Train,Riverton,NJ,US,Bachelor's,Management Information Systems,"management, information systems, communication, decision making, problem solving, leadership"
+767,1,Test,Murrieta,CA,US,Bachelor's,University Studies/Business,"business, finance, management, communication, problem solving, networking, leadership"
+769,1,Test,Roselle,IL,US,Bachelor's,Radio-Television,"media, radio, television, communication, interpersonal, debating, public speaking, "
+861,1,Test,Morris,IL,US,High School,General Studies,"general knowledge, general studies, communication, leadership, public speaking"
+886,1,Train,Gainesville,GA,US,Bachelor's,Criminal Justice,"criminal justice, law, problem solving, decision making, public speaking, communication"
+908,1,Train,East Lansing,MI,US,Bachelor's,Criminal Justice & Chinese,"chinese, law, decision making, problem solving, public speaking, history, politics"
+951,1,Train,Philadelphia,PA,US,Bachelor's,Business Administration,"business, finance, management, cost reduction, public speaking, problem solving, accounting"
+966,1,Train,Charlotte,NC,US,Associate's,Nursing Program,"nursing, nurturing, patience, communication, interpersonal, competition"
+1006,1,Test,West Chester,PA,US,High School,Not Applicable,competition
+1045,1,Train,Charleston,WV,US,High School,Not Applicable,competition
+1123,1,Train,Jacksonville,FL,US,None,Civil Engineering and Architecture,"competition, problem solving, creative, engineering, decision making"
+1138,1,Train,Monroe,OH,US,High School,Not Applicable,competition
+1192,1,Test,Cincinnati,OH,US,Bachelor's,Marketing,"marketing, finance, management, analytical, decision making, cost reduction, data analysis, problem solving"
+1201,1,Train,Depauw,IN,US,High School,Not Applicable,"competition, problem solving"
+1204,1,Train,Mertzon,TX,US,Bachelor's,Management Information Systems,"information systems, management, communication, decision making, analytics, data analysis"
+1206,1,Train,Upper Marlboro,MD,US,Bachelor's,Elementary Education,"communication, interpersonal, nurturing, creativity"
+1226,1,Train,Cincinnati,OH,US,None,"Licensed Practical/Vocational Nurse Training (LPN, LVN, Cert","nursing, nurturing, dexterity, patience, communication, medicinal sciences"
+1355,1,Train,Bronx,NY,US,Associate's,"Heating, Air Conditioning and Refrigeration Technology/Technician (ACH/ACR/ACHR/HRAC/HVAC/AC Technology)","electronics, electrical engineering, problem solving, decision making, creativity, technological knowledge"
+1363,1,Train,Rochester,NY,US,Bachelor's,Rhetoric & Communications,"communication, interpersonal, public speaking, debating, theatre"
+1374,1,Train,Paterson,NJ,US,High School,Not Applicable,competition
+1486,1,Train,Conroe,TX,US,High School,Not Applicable,competition
+1487,1,Train,Pawtucket,RI,US,None,Certified Medical Assistant Candidate,"nursing, dexterity, communication, problem solving, patience, medicinal sciences"
+1526,1,Train,Chicago,IL,US,High School,Culinary Arts/Chef Training,"cooking, baking, creativity, culinary expertise, culinary arts, cleanliness, management, decision making"
+1541,1,Train,Cold Spring,MN,US,High School,Not Applicable,"competition, communication"
+1563,1,Train,Oklahoma City,OK,US,None,Health Insurance Association of America,"insurance, health studies, medicinal sciences, law, finance, decision making, leadership, communication"
+1610,1,Train,Huntersville,NC,US,Bachelor's,"Business/Commerce, General","business, commerce, finance, management, auditing, accounting, cost reduction, data analysis"
+1645,1,Train,Washington,DC,US,Associate's,Hospitality Management,"hospitality, communication, management, decision making, interpersonal, "
+1697,1,Train,Justice,IL,US,High School,Not Applicable,competition
+1721,1,Train,Staten Island,NY,US,High School,Not Applicable,"competition, communication"
+1770,1,Train,Toledo,OH,US,High School,Not Applicable,competition
+1793,1,Train,Saint Augustine,FL,US,Bachelor's,Communication,"communication, interpersonal, public speaking, "
+1800,1,Train,Chicago,IL,US,High School,Not Applicable,"competition, leadership"
+1834,1,Train,Fort Worth,TX,US,High School,Not Applicable,competition
+1846,1,Train,Newportville,PA,US,Associate's,Computer Electronics,"computer science, computer, electronics, C, Ruby, Java, HTML, CSS, problem solving, leadership, programming"
+2017,1,Train,Litchfield Park,AZ,US,None,research,"research, problem solving, creativity"
+2032,1,Train,Haddonfield,NJ,US,Master's,Social Work,"communication, leadership, interpersonal, patience, nurturing, social work"
+2116,1,Train,Elizabeth,IN,US,High School,Not Applicable,competition
+2134,1,Train,Wilmington,DE,US,High School,Not Applicable,competition
+2166,1,Train,Lilburn,GA,US,High School,Not Applicable,competition
+2203,1,Train,Stratford,CT,US,High School,Not Applicable,competition
+2204,1,Train,Phoenix,AZ,US,Associate's,Electronics Engineering Technology,"electronics, engineering, problem solving, electrical engineering"
+2241,1,Test,Moreno Valley,CA,US,None,Advanced Supervision,"supervision, management, communication, leadership"
+2304,1,Train,Lynchburg,VA,US,Master's,Social Work,"communication, leadership, interpersonal, patience, social work"
+2327,1,Train,Georgetown,TX,US,Associate's,General Studies,"history, politics, science, general knowledge, current affairs"
+2337,1,Train,Austin,TX,US,High School,Not Applicable,competition
+2385,1,Train,Bay Shore,NY,US,High School,Not Applicable,competition
+2393,1,Train,Mesa,AZ,US,High School,Not Applicable,competition
+2432,1,Train,Minden,NV,US,None,General studies,"general knowledge, current affair, history, politics"
+2473,1,Train,Glendale,AZ,US,High School,Not Applicable,competition
+2481,1,Train,Boise,ID,US,Bachelor's,Education and Political Science,"politics, political science, education, law, leadership skills, debating, communication"
+2528,1,Train,Lombard,IL,US,Vocational,Medical assistant,"medicinal science, science, management, nursing, science"
+2549,1,Train,College Park,MD,US,Master's,Liberal Arts,"liberal arts, english, literature, debating, public speaking"
+2571,1,Train,Tampa,FL,US,High School,Not Applicable,competition
+2604,1,Train,Branchburg,NJ,US,High School,"Business Administration and Management, General","business, finance, management, auditing, accounting, cost reduction, data analysis"
+2638,1,Train,Montclair,NJ,US,High School,Not Applicable,competition
+2652,1,Test,Glendale,CA,US,High School,Not Applicable,competition
+2658,1,Train,Whittier,CA,US,High School,Not Applicable,competition
+2700,1,Train,Hoffman Estates,IL,US,High School,Not Applicable,competition
+2718,1,Train,Miami,FL,US,Bachelor's,Education,"education, communication"
+2731,1,Train,Franklin,TN,US,Associate's,Criminal Justice Policy &amp; Practice,"law, criminal science, decision making"
+2739,1,Test,Richmond,VA,US,High School,Not Applicable,competition
+2750,1,Test,Des Moines,IA,US,High School,Not Applicable,competition
+2754,1,Train,Plano,IL,US,Associate's,Communication Studies,"communication, interpersonal, debating, public speaking"
+2848,1,Test,Farmersville,TX,US,Bachelor's,Journalism/Public Relations and Political Science,"journalism, politics, political science, communication, problem solving, public relations, interpersonal"
+2865,1,Train,Wentzville,MO,US,Associate's,business management,"business, finance, management, leadership"
+2898,1,Train,East Chicago,IN,US,Bachelor's,Management of Information Systems,"management, information systems, communication, problem solving, leadership"
+2958,1,Train,Clinton Township,MI,US,Bachelor's,Business Management,"business, finance, management, communication, market analysis, cost reduction, "
+2964,1,Train,Rock Hill,SC,US,Bachelor's,Business / Computer Science Minor Paralegal,"business, finance, management, computers, computer science, C, Python, Java, app development, android"
+3050,1,Train,Bolingbrook,IL,US,None,Business Administration,"business, finance, management, cost reduction, leadership"
+3054,1,Train,Phoenix,AZ,US,None,Digital Photography,"creativity, photography, digital photography"
+3069,1,Train,Amherst,OH,US,High School,Not Applicable,competition
+3123,1,Train,Mineola,NY,US,None,Applied Behavioral Analysis,"behavioral analysis, communication, interpersonal"
+3145,1,Train,Lexington,SC,US,Master's,Accounting,"accounting, finance, market analysis, cost reduction, auditing"
+3164,1,Train,Garfield,GA,US,High School,Not Applicable,competition
+3165,1,Train,Hershey,PA,US,None,Practical Nursing Program,"nursing, nurturing, patience, medicinal science"
+3176,1,Train,South Elgin,IL,US,Associate's,Early Childhood Education,"childhood education, psychology, communication"
